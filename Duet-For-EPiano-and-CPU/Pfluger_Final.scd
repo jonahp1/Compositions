@@ -33,6 +33,8 @@ g = initialize audible granular processing
 r = generate new random pitch shift factor for granular pitch shift
 v = send drum sound to delay, MAKES AUDIBLE
 */
+
+
 (
 s.waitForBoot({ //this takes care of all "load sequencing",
 
